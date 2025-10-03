@@ -1,4 +1,4 @@
-# Support
+# Privacy Policy
 
 Welcome to the NestMind Support page. If you have any issues or questions, this is the right place.
 
